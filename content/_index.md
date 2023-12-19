@@ -85,7 +85,7 @@ sections:
           #description: Taught electronic engineering and researched semiconductor physics.
     #design:
       #columns: '2'
-  - block: Certificates
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Certificates'
@@ -102,7 +102,7 @@ sections:
           date_end: ''
           date_start: '2022-02-09'
           description: ''
-          icon: DataCamp
+          icon: 
           organization: DataCamp
           organization_url: https://www.datacamp.com/statement-of-accomplishment/course/642b3f9beec420c014269605423d4275119d2989?raw=1
           title: Intermediate Regression with statsmodels in Python
