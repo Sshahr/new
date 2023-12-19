@@ -267,9 +267,13 @@ sections:
         country_code: US
       directions: R. Randall Rollins, Room R400A-6
       office_hours: ''
+        #- ''
+        #- 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates: ''
-      contact_links: ''
+        latitude: ''
+        longitude: ''  
+      contact_links:
         #- icon: twitter
           #icon_pack: fab
           #name: DM Me
@@ -283,7 +287,7 @@ sections:
           #name: Zoom Me
           #link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
       # Email form provider
       form:
         provider: netlify
