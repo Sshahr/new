@@ -273,7 +273,7 @@ sections:
       coordinates: ''
         latitude: ''
         longitude: ''  
-      contact_links:
+      contact_links: ''
         #- icon: twitter
           #icon_pack: fab
           #name: DM Me
