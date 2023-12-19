@@ -266,9 +266,7 @@ sections:
         country: United States
         country_code: US
       directions: R. Randall Rollins, Room R400A-6
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '37.4275'
