@@ -62,11 +62,9 @@ skills:
         icon: chart-bar
         icon_pack: fas
       
-      
-        
   - name: Softwares
-    #color: '#eeac02'
-    #color_border: '#f0bf23'
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: R
         description: ''
@@ -79,20 +77,7 @@ skills:
         icon: chart-pie
         icon_pack: fas
 
-  - name: Developer Tools
-    #color: '#eeac02'
-    #color_border: '#f0bf23'
-    items:
-      -- name: Git
-        description: ''
-        percent: 80
-        icon: github
-        icon_pack: fab
-      - name: Anaconda
-        description: ''
-        percent: 85
-        icon: python
-        icon_pack: fab  
+  
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
