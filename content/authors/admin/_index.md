@@ -49,31 +49,33 @@ organizations:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-    feature:
-      - icon: r-project
+    items:
+      - name: Python
+        description: ''
+        percent: 100
+        icon: python
         icon_pack: fab
-        name: R
-      - icon: python
-        icon_pack: fab
-        name: Python
-      - icon: chart-line
+      - name: MATLAB
+        description: ''
+        percent: 100
+        icon: chart-bar
         icon_pack: fas
-        name: Economics & Statistics
-      - icon: chart-bar
-        icon_pack: fas
-        name: MATLAB
-      - icon: chart-pie
-        icon_pack: fas
-        name: STATA
-      - icon: git-alt
+      - name: R
+        description: ''
+        percent: 90
+        icon: r-project
         icon_pack: fab
-        name: Git
-      - icon: github
+      - name: STATA
+        description: 95
+        #percent: ''
+        icon: chart-pie
+        icon_pack: fas
+      - name: Git
+        description: 80
+        #percent: ''
+        icon: github
         icon_pack: fab
-        name: Github
-      - icon: overleaf
-        icon_pack: ai
-        name: Overleaf
+        
   #- name: Hobbies
     #color: '#eeac02'
     #color_border: '#f0bf23'
