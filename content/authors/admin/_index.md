@@ -53,27 +53,27 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: ''
+        #percent: ''
         icon: python
         icon_pack: fab
       - name: R
         description: ''
-        percent: ''
+        #percent: ''
         icon: r-project
         icon_pack: fab
       - name: MATLAB
         description: ''
-        percent: ''
+        #percent: ''
         icon: chart-bar
         icon_pack: fas
       - name: STATA
         description: ''
-        percent: ''
+        #percent: ''
         icon: chart-pie
         icon_pack: fas
       - name: Git
         description: ''
-        percent: ''
+        #percent: ''
         icon: github
         icon_pack: fab
         
@@ -104,7 +104,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:sshahr5@emory.edu'
   #- icon: twitter
     #icon_pack: fab
     #link: https://twitter.com/GeorgeCushen
