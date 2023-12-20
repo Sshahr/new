@@ -49,6 +49,7 @@ organizations:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
+  - name: Languages
     items:
       - name: Python
         description: ''
@@ -60,41 +61,38 @@ skills:
         percent: 100
         icon: chart-bar
         icon_pack: fas
+      
+      
+        
+  - name: Softwares
+    #color: '#eeac02'
+    #color_border: '#f0bf23'
+    items:
       - name: R
         description: ''
         percent: 90
         icon: r-project
         icon_pack: fab
       - name: STATA
-        description: 95
-        #percent: ''
+        description: ''
+        percent: 95
         icon: chart-pie
         icon_pack: fas
-      - name: Git
-        description: 80
-        #percent: ''
-        icon: github
-        icon_pack: fab
-        
-  #- name: Hobbies
+
+  - name: Developer Tools
     #color: '#eeac02'
     #color_border: '#f0bf23'
-    #items:
-      #- name: Hiking
-        #description: ''
-        #percent: 60
-        #icon: person-hiking
-        #icon_pack: fas
-      #- name: Cats
-        #description: ''
-        #percent: 100
-        #icon: cat
-        #icon_pack: fas
-      #- name: Photography
-        #description: ''
-        #percent: 80
-        #icon: camera-retro
-        #icon_pack: fas
+    items:
+      -- name: Git
+        description: ''
+        percent: 80
+        icon: github
+        icon_pack: fab
+      - name: Anaconda
+        description: ''
+        percent: 85
+        icon: python
+        icon_pack: fab  
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
