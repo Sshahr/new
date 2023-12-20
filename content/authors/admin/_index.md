@@ -102,9 +102,9 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:sshahr5@emory.edu'
+  #- icon: envelope
+    #icon_pack: fas
+    #link: 'mailto:sshahr5@emory.edu'
   #- icon: twitter
     #icon_pack: fab
     #link: https://twitter.com/GeorgeCushen
@@ -123,15 +123,16 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV.pdf
+  #- icon: cv
+    #icon_pack: ai
+    #link: uploads/CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 Welcome to my webpage!
+
 I am a third-year Economics Ph.D. student at Emory University. I am working under the supervision of Dr. Karen Kopecky. Before joining Emory, I graduated from Illinois State University with a MSc in Mathematics and a MSc in Economics. 
 
 My research interests lie broadly in macroeconomics and quantitative modeling. I am particularly intrested in studying racial wealth inequality, social security systems and labor markets. I also have a growing interest in Heterogeneous Agent New Keynesian (HANK) models. 
