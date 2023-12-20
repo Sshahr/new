@@ -252,8 +252,7 @@ sections:
     content:
       title: Contact
       subtitle: ''
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      text: ''
       # Contact (add or remove contact options as necessary)
       email: sshahr5@emory.edu
       phone: ''
@@ -268,8 +267,22 @@ sections:
       directions: R. Randall Rollins, Room R400A-6
       office_hours: ''
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates: '' 
-      contact_links: ''
+      coordinates: 
+        latitude: '33.797271'
+        longitude: '-84.3227217'  
+      contact_links: 
+        - icon: ''
+          icon_pack: ''
+          name: ''
+          link: ''
+        - icon: ''
+          icon_pack: ''
+          name: ''
+          link: ''
+        - icon: ''
+          icon_pack: ''
+          name: ''
+          link: ''
       # Automatically link email and phone or display as text?
       autolink: false
       # Email form provider
