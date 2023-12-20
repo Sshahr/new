@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shabnam Shahrezaei
+title: 'Shabnam Shahrezaei'
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
@@ -49,34 +49,31 @@ organizations:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        #percent: ''
-        icon: python
+    feature:
+      - icon: r-project
         icon_pack: fab
-      - name: R
-        description: ''
-        #percent: ''
-        icon: r-project
+        name: R
+      - icon: python
         icon_pack: fab
-      - name: MATLAB
-        description: ''
-        #percent: ''
-        icon: chart-bar
+        name: Python
+      - icon: chart-line
         icon_pack: fas
-      - name: STATA
-        description: ''
-        #percent: ''
-        icon: chart-pie
+        name: Economics & Statistics
+      - icon: chart-bar
         icon_pack: fas
-      - name: Git
-        description: ''
-        #percent: ''
-        icon: github
+        name: MATLAB
+      - icon: chart-pie
+        icon_pack: fas
+        name: STATA
+      - icon: git-alt
         icon_pack: fab
-        
+        name: Git
+      - icon: github
+        icon_pack: fab
+        name: Github
+      - icon: overleaf
+        icon_pack: ai
+        name: Overleaf
   #- name: Hobbies
     #color: '#eeac02'
     #color_border: '#f0bf23'
