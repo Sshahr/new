@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Shabnam Shahrezaei'
+title: Shabnam Shahrezaei
 date: 2022-10-24
 type: landing
 
