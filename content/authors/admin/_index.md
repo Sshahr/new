@@ -113,9 +113,9 @@ social:
 highlight_name: true
 ---
 
-Welcome to my webpage!
+Welcome to my website!
 
-I am a third-year Economics Ph.D. student at Emory University. I am working under the supervision of Dr. Karen Kopecky. Before joining Emory, I graduated from Illinois State University with a MSc in Mathematics and a MSc in Economics. 
+I am a third-year Economics Ph.D. student at Emory University. I am working under the supervision of [Dr. Karen Kopecky](https://www.karenkopecky.net/). Before joining Emory, I graduated from Illinois State University with a MSc in Mathematics and a MSc in Economics. 
 
 My research interests lie broadly in macroeconomics and quantitative modeling. I am particularly intrested in studying racial wealth inequality, social security systems and labor markets. I also have a growing interest in Heterogeneous Agent New Keynesian (HANK) models. 
 

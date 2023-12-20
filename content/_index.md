@@ -258,13 +258,13 @@ sections:
       phone: ''
       appointment_url: ''
       address:
-        street: 1516 Clifton Road, NE
+        street: 1516 Clifton Road
         city: Atlanta
         region: GA
         postcode: '30322'
         country: United States
         country_code: US
-      directions: R. Randall Rollins, Room R400A-6
+      directions: R. Randall Rollins (R400A-6)
       office_hours: ''
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates: 
