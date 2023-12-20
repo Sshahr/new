@@ -267,25 +267,9 @@ sections:
         country_code: US
       directions: R. Randall Rollins, Room R400A-6
       office_hours: ''
-        #- ''
-        #- 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates: ''
-        latitude: ''
-        longitude: ''  
+      coordinates: '' 
       contact_links: ''
-        - icon: ''
-          icon_pack: ''
-          name: ''
-          link: ''
-        - icon: ''
-          icon_pack: ''
-          name: ''
-          link: ''
-        - icon: ''
-          icon_pack: ''
-          name: ''
-          link: ''
       # Automatically link email and phone or display as text?
       autolink: false
       # Email form provider
