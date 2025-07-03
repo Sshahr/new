@@ -17,7 +17,7 @@ last_name: Shahrezaei
 superuser: true
 
 # Role/position/tagline
-role: Economics PhD Student
+role: Economics PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -115,11 +115,7 @@ highlight_name: true
 
 Welcome to my website!
 
-I am a third-year Economics Ph.D. student at Emory University. I am working under the supervision of [Dr. Karen Kopecky](https://www.karenkopecky.net/). Before joining Emory, I graduated from Illinois State University with a MSc in Mathematics and a MSc in Economics. 
-
-My research interests lie broadly in macroeconomics and quantitative modeling. I am particularly intrested in studying racial wealth inequality, social security systems and labor markets. I also have a growing interest in Heterogeneous Agent New Keynesian (HANK) models. 
-
-In my free time, I enjoy painting, playing soccer and reading poetry. 
-I am a huge fan of Rumi! 
+I am a Ph.D. candidate in Economics at Emory University. My research focuses on macroeconomics, household finance, and public policy, with a particular emphasis on Social Security design, retirement inequality, and labor supply decisions across demographic groups. I use structural models and micro-level data to analyze how institutions and policies shape economic outcomes for women and minorities. I hold a B.A. in Economics from the University of Tehran and a dual M.S. in Quantitative Economics and Applied Mathematics from Illinois State University.
+I am also passionate about leadership development and empowering female students in the field of economics. I co-teach a global leadership course at Emory University aimed at mentoring female students and fostering inclusive professional growth.
 {style="text-align: justify;"}
 
