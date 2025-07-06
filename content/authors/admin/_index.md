@@ -121,6 +121,7 @@ I am a Ph.D. candidate in Economics at Emory University. I hold a B.A. in Econom
 
 My research focuses on macroeconomics, household finance, and public policy, with a particular emphasis on Social Security and pension design. I use structural models and micro-level data to analyze how policies affect economic outcomes for the aging population.
 
-I am also passionate about leadership development and empowering women in economics. At Emory University, I co-teach a global leadership course to help students build confidence, strengthen their leadership skills and prepare for the job market.
+I recently accepted a PhD internship position at the [Federal Reserve Bank of Atlanta](https://www.atlantafed.org/).
+
 {style="text-align: justify;"}
 

@@ -85,66 +85,66 @@ sections:
           #description: Taught electronic engineering and researched semiconductor physics.
     #design:
       #columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Certificates'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/642b3f9beec420c014269605423d4275119d2989?raw=1
-          date_end: ''
-          date_start: '2022-02-09'
-          description: ''
-          icon: 
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: Intermediate Regression with statsmodels in Python
-          url: ''
-        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/642b3f9beec420c014269605423d4275119d2989?raw=1
-          date_end: ''
-          date_start: '2022-02-04'
-          description: ''
-          icon: 
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: Introduction to Regression with statsmodels in Python
-          url: ''
-        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/3296d48b6af8fc0dd2020e646f14e4c1398b2961?raw=1
-          date_end: ''
-          date_start: '2022-01-25'
-          description: ''
-          icon: 
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: Intermediate Python
-          url: ''
-        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/7d63bbc59686d335a248a9c189c0c67addb85dea
-          date_end: ''
-          date_start: '2022-01-16'
-          description: ''
-          icon: 
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: Cloud Computing for Everyone
-          url: ''
-        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/608496bd4eff18c01038303c3f6e06e2ec3cedbf
-          date_end: ''
-          date_start: '2022-01-12'
-          description: ''
-          icon: 
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: Introduction to Git
-          url: ''
-    design:
-      columns: '2'
+  # - block: accomplishments
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: 'Certificates'
+  #     subtitle:
+  #     # Date format: https://docs.hugoblox.com/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/642b3f9beec420c014269605423d4275119d2989?raw=1
+  #         date_end: ''
+  #         date_start: '2022-02-09'
+  #         description: ''
+  #         icon: 
+  #         organization: DataCamp
+  #         organization_url: https://www.datacamp.com
+  #         title: Intermediate Regression with statsmodels in Python
+  #         url: ''
+  #       - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/642b3f9beec420c014269605423d4275119d2989?raw=1
+  #         date_end: ''
+  #         date_start: '2022-02-04'
+  #         description: ''
+  #         icon: 
+  #         organization: DataCamp
+  #         organization_url: https://www.datacamp.com
+  #         title: Introduction to Regression with statsmodels in Python
+  #         url: ''
+  #       - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/3296d48b6af8fc0dd2020e646f14e4c1398b2961?raw=1
+  #         date_end: ''
+  #         date_start: '2022-01-25'
+  #         description: ''
+  #         icon: 
+  #         organization: DataCamp
+  #         organization_url: https://www.datacamp.com
+  #         title: Intermediate Python
+  #         url: ''
+  #       - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/7d63bbc59686d335a248a9c189c0c67addb85dea
+  #         date_end: ''
+  #         date_start: '2022-01-16'
+  #         description: ''
+  #         icon: 
+  #         organization: DataCamp
+  #         organization_url: https://www.datacamp.com
+  #         title: Cloud Computing for Everyone
+  #         url: ''
+  #       - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/608496bd4eff18c01038303c3f6e06e2ec3cedbf
+  #         date_end: ''
+  #         date_start: '2022-01-12'
+  #         description: ''
+  #         icon: 
+  #         organization: DataCamp
+  #         organization_url: https://www.datacamp.com
+  #         title: Introduction to Git
+  #         url: ''
+  #   design:
+  #     columns: '2'
   #- block: collection
     #id: posts
     #content:
@@ -247,52 +247,52 @@ sections:
       #title: Popular Topics
     #design:
       #columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle: ''
-      text: ''
-      # Contact (add or remove contact options as necessary)
-      email: sshahr5@emory.edu
-      phone: ''
-      appointment_url: ''
-      address:
-        street: 1516 Clifton Road
-        city: Atlanta
-        region: GA
-        postcode: '30322'
-        country: United States
-        country_code: US
-      directions: R. Randall Rollins (R400A-6)
-      office_hours: ''
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates: 
-        latitude: '33.797271'
-        longitude: '-84.3227217'  
-      contact_links: 
-        - icon: ''
-          icon_pack: ''
-          name: ''
-          link: ''
-        - icon: ''
-          icon_pack: ''
-          name: ''
-          link: ''
-        - icon: ''
-          icon_pack: ''
-          name: ''
-          link: ''
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id: ''
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle: ''
+  #     text: ''
+  #     # Contact (add or remove contact options as necessary)
+  #     email: sshahr5@emory.edu
+  #     phone: ''
+  #     appointment_url: ''
+  #     address:
+  #       street: 1516 Clifton Road
+  #       city: Atlanta
+  #       region: GA
+  #       postcode: '30322'
+  #       country: United States
+  #       country_code: US
+  #     directions: R. Randall Rollins (R400A-6)
+  #     office_hours: ''
+  #     # Choose a map provider in `params.yaml` to show a map from these coordinates
+  #     coordinates: 
+  #       latitude: '33.797271'
+  #       longitude: '-84.3227217'  
+  #     contact_links: 
+  #       - icon: ''
+  #         icon_pack: ''
+  #         name: ''
+  #         link: ''
+  #       - icon: ''
+  #         icon_pack: ''
+  #         name: ''
+  #         link: ''
+  #       - icon: ''
+  #         icon_pack: ''
+  #         name: ''
+  #         link: ''
+  #     # Automatically link email and phone or display as text?
+  #     autolink: true
+  #     # Email form provider
+  #     form:
+  #       provider: netlify
+  #       formspree:
+  #         id: ''
+  #       netlify:
+  #         # Enable CAPTCHA challenge to reduce spam?
+  #         captcha: false
+  #   design:
+  #     columns: '2'
 ---
