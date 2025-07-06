@@ -22,7 +22,7 @@ role: Economics PhD Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Emory University
-    url: https://www.Emory.edu/
+    url: https://economics.emory.edu/index.html
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
