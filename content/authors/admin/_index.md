@@ -84,9 +84,9 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  #- icon: envelope
-    #icon_pack: fas
-    #link: 'mailto:sshahr5@emory.edu'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:sshahr5@emory.edu'
   #- icon: twitter
     #icon_pack: fab
     #link: https://twitter.com/GeorgeCushen
@@ -96,12 +96,16 @@ social:
   #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     #icon_pack: fas
     #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Sshahr
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shabnam-shahrezaei-08800014b/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Sshahr
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/Sshahr
+  
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -113,9 +117,10 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website!
+I am a Ph.D. candidate in Economics at Emory University. I hold a B.A. in Economics from the University of Tehran and a dual M.S. in Quantitative Economics and Mathematics from Illinois State University. 
 
-I am a Ph.D. candidate in Economics at Emory University. My research focuses on macroeconomics, household finance, and public policy, with a particular emphasis on Social Security design, retirement inequality, and labor supply decisions across demographic groups. I use structural models and micro-level data to analyze how institutions and policies shape economic outcomes for women and minorities. I hold a B.A. in Economics from the University of Tehran and a dual M.S. in Quantitative Economics and Applied Mathematics from Illinois State University.
-I am also passionate about leadership development and empowering female students in the field of economics. I co-teach a global leadership course at Emory University aimed at mentoring female students and fostering inclusive professional growth.
+My research focuses on macroeconomics, household finance, and public policy, with a particular emphasis on Social Security and pension design. I use structural models and micro-level data to analyze how policies affect economic outcomes for the aging population.
+
+I am also passionate about leadership development and empowering women in economics. At Emory University, I co-teach a global leadership course to help students build confidence, strengthen their leadership skills and prepare for the job market.
 {style="text-align: justify;"}
 
