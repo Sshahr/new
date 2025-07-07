@@ -8,8 +8,7 @@ weight: 40
 
 - **Principles of Macroeconomics - ECON112**  
   *Main Instructor: Summer 2025*  
-  Undergraduate-level introduction to macroeconomics covering long-run economic growth, the role of financial institutions, money and the Federal Reserve, short-run fluctuations in output and employment, and the use of fiscal and monetary policy for stabilization.  
-  📄 [Download the course syllabus](/uploads/Economics%20112%20Syllabus.pdf)
+  Undergraduate-level introduction to macroeconomics. 📄 [Download the course syllabus](/uploads/Economics%20112%20Syllabus.pdf)
 
 - **Macroeconomic Theory I - ECON610**  
   *Teaching Assistant: Fall 2022*  
