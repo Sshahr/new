@@ -20,4 +20,5 @@ weight: 50
   Analyzed the contribution of public and private investment to GDP growth in OECD countries (1980–2017). 📄 [Read project](/uploads/Econ.pdf)
 
 - **An Extension of The Black-Scholes Call Option Pricing Model**  
-  Extended Black-Scholes model for European call options using IBM and AT&T data. 📄 [Read project](/uploads/Math.pdf)
+  Extended Black-Scholes model for European call options using IBM and AT&T data. 
+  📄 [Read project](/uploads/Math.pdf)

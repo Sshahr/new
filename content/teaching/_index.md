@@ -16,7 +16,12 @@ weight: 50
 
 - **Principles of Microeconomics - ECON101**  
   *Teaching Assistant: Fall 2023, 2024, 2025*  
-   Undergraduate-level introduction to microeconomics. As a TA, I support student learning through four hours weekly office hours, review sessions (with ~120 attendees), and interactive classroom activities. I grade assignments and exams, ensuring fair and timely feedback. Beyond academics, I mentor students through one-on-one conversations and informal coffee chats, offering guidance on course material, graduate school, and career paths in economics.
+   TA for a large (~120 students) undergraduate microeconomics course. I supported learning through office hours, review sessions, and interactive activities, while also mentoring students on coursework, grad school, and careers in economics.
+
+- **Economics Leadership Course - ECON385**  
+  *Co-Instructor: Spring 2025*  
+   Designed and taught an accredited course focused on leadership development, career readiness, and economic challenges facing women in the profession. Guided students through professional skill-building, guest speaker sessions, and personalized mentorship, including a final elevator pitch presentation.
+
 
 ---
 
