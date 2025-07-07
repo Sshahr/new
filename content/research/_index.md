@@ -1,7 +1,7 @@
 ---
 title: ""
 summary: ""
-weight: 40
+weight: 50
 ---
 
 ### Works in Progress
@@ -18,8 +18,8 @@ weight: 40
 
 - **The Relative Effect of Public and Private Investment on Economic Growth in OECD Countries**  
   Analyzed the contribution of public and private investment to GDP growth in OECD countries (1980–2017).  
-  📄 [Read project](/uploads/Econ-Capstone-Project.pdf)
+  <!-- 📄 [Read project](/uploads/Econ-Capstone-Project.pdf) -->
 
 - **An Extension of The Black-Scholes Call Option Pricing Model**  
   Extended Black-Scholes model for European call options using IBM and AT&T data.  
-  📄 [Read project](/uploads/Math-Capstone-Project.pdf)
+  <!-- 📄 [Read project](/uploads/Math-Capstone-Project.pdf) -->
