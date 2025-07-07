@@ -4,7 +4,7 @@ summary: ""
 weight: 40
 ---
 
-- **Principles of Macroeconomics** 
-  Main Instrutor
-  Undergraduate-level introduction to Macroeconomics: covers the factors of long-run economic growth, the role of financial institutions, money and the Federal Reserve, short-run economic fluctuations, and the use of fiscal and monetary policy to stabilize the economy. You can download the course syllabus [here]('uploads/Economics 112 Syllabus.pdf').
-
+- **Principles of Macroeconomics**  
+  *Main Instructor*  
+  Undergraduate-level introduction to macroeconomics covering long-run economic growth, the role of financial institutions, money and the Federal Reserve, short-run fluctuations in output and employment, and the use of fiscal and monetary policy for stabilization.  
+  📄 [Download the course syllabus](uploads/Economics%20112%20Syllabus.pdf)
