@@ -104,7 +104,7 @@ social:
     link: https://github.com/Sshahr
   - icon: twitter
     icon_pack: fab
-    link: https://x.com/Sshahr
+    link: https://x.com/Shabnam_Shrz
   
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
