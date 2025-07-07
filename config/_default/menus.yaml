@@ -11,7 +11,7 @@ main:
     url: 'uploads/Shahrezaei_Shabnam_CV (26).pdf'
     weight: 20
   - name: Research
-    url: /publication/
+    url: /research/
     weight: 50
   - name: Teaching
     url: /teaching/

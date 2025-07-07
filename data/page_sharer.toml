@@ -10,6 +10,14 @@
   enable = true
 
 [[buttons]]
+  id = "x"
+  url = "https://x.com/intent/x?url={url}&text={title}"
+  title = "X"
+  icon_pack = "fab"
+  icon = "x"
+  enable = true
+
+[[buttons]]
   id = "facebook"
   url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
   title = "Facebook"
