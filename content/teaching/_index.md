@@ -20,7 +20,7 @@ weight: 50
 
 - **Economics Leadership Course - ECON385**  
   *Co-Instructor: Spring 2025*  
-   Designed and taught an accredited course focused on leadership development, career readiness, and economic challenges facing women in the profession. Guided students through professional skill-building, guest speaker sessions, and personalized mentorship, including a final elevator pitch presentation.
+   Help designing and teaching an accredited course focused on leadership development, career readiness, and economic challenges facing women in the profession. Guided students through professional skill-building, guest speaker sessions, and personalized mentorship, including a final elevator pitch presentation.
 
 
 ---
