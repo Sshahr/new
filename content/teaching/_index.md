@@ -1,7 +1,7 @@
 ---
 title: ""
 summary: ""
-weight: 40
+weight: 50
 ---
 
 ### Emory University
@@ -28,4 +28,4 @@ weight: 40
 
 - **Finite Mathematics - MAT120**  
   *Main Instructor*  
-  Covered linear functions, matrices, probability, statistics, set theory, and financial mathematics.
+  Covered linear functions, matrices, probability, statistics, and set theory.

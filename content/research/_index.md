@@ -1,7 +1,7 @@
 ---
 title: ""
-summary: "Overview of my research interests and works in progress."
-weight: 30
+summary: ""
+weight: 40
 ---
 
 ### Works in Progress
