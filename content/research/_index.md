@@ -17,9 +17,7 @@ weight: 50
 ### Master's Projects
 
 - **The Relative Effect of Public and Private Investment on Economic Growth in OECD Countries**  
-  Analyzed the contribution of public and private investment to GDP growth in OECD countries (1980–2017).  
-  📄 [Read project](/uploads/Econ-Capstone-Project.pdf)
+  Analyzed the contribution of public and private investment to GDP growth in OECD countries (1980–2017). 📄 [Read project](/uploads/Econ.pdf)
 
 - **An Extension of The Black-Scholes Call Option Pricing Model**  
-  Extended Black-Scholes model for European call options using IBM and AT&T data.  
-  📄 [Read project](/uploads/Math-Capstone-Project.pdf)
+  Extended Black-Scholes model for European call options using IBM and AT&T data. 📄 [Read project](/uploads/Math.pdf)
